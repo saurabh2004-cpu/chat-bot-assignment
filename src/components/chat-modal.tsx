@@ -35,7 +35,7 @@ export default function ChatModal({ isOpen, onClose }: ChatModalProps) {
   const fetchMessages = async () => {
     try {
       setIsMessagesLoading(true)
-      const response = await axios.get("http://localhost:3000/api/messages")
+      const response = await axios.get("/api/messages")
 
       setIsMessagesLoading(false)
       console.log(response)
@@ -69,7 +69,7 @@ export default function ChatModal({ isOpen, onClose }: ChatModalProps) {
     setIsLoading(true)
 
     try {
-      const response = await axios.post("http://localhost:3000/api/messages", userMessage)
+      const response = await axios.post("/api/messages", userMessage)
       console.log(response)
       const data = response.data.aiResponse
 
