@@ -1,0 +1,19 @@
+Welcome to ChatWise!
+
+About:
+ChatWise is an AI-powered chat platform designed to help users get instant answers, support, and information. Our assistant is available 24/7 to guide you through your questions and provide helpful resources.
+
+Website Rules:
+1. Be respectful to others and the AI assistant.
+2. Do not share personal, sensitive, or confidential information.
+3. Use clear and concise language for better assistance.
+4. Spamming, abusive language, or inappropriate content is strictly prohibited.
+5. For technical issues, contact support at support@chatwise.com.
+
+Features:
+- Instant AI-powered responses to your queries.
+- Secure and private conversations.
+- Easy-to-use interface for all users.
+- Continuous learning to improve assistance quality.
+
+Thank you for using ChatWise! If you have any questions about how to use the website, just ask the assistant.
